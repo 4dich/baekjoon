@@ -1,2 +1,2 @@
 # baekjoon
-Solve baekjoon algorithm
+study algorithm(baekjoon)
