@@ -1,2 +1,2 @@
 # baekjoon
-study algorithm(baekjoon)
+study algorithm
