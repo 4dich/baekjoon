@@ -1,0 +1,1 @@
+let [...arr] = require('fs').readFileSync('input.txt').toString().trim().split(' ');
