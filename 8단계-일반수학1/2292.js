@@ -10,3 +10,4 @@ while (N > min) {
 }
 
 console.log(cnt);
+
