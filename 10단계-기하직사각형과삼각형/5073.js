@@ -4,7 +4,7 @@ input.pop();
 
 const print = (arr) => {
     const [a, b, c] = arr.split(" ").map(Number);
-    let max = Math.max(...arr);
+    let max = Math.max(a, b, c);
     let sum = a + b + c;
 
     if (sum - max <= max) {
